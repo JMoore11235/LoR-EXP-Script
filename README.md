@@ -35,8 +35,8 @@ Script to run with either two of your accounts or with another person. In essenc
 
 # Everytime:<br><br>
 
-**1. Make sure that the script has the correct "surrenderFirst" number.
- * If you are win-trading, make sure that the other account has a different number.
+**1. Make sure that the script has the correct "surrenderFirst" number.**
+ * If you are win-trading, make sure that the other account has a different number.<br><br>
   
 **2. Start a Friendly Challenge, or Select "VS AI" in the Play menu**
  * Since you've made it this far, I'm assuming you're literate and can read English. Thus you should read the name of this step.<br><br>
