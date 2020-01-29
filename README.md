@@ -1,9 +1,11 @@
 # LoR-EXP-Script
-Script to run with either two of your accounts or with another person. In essence, you use this to grind your daily win/loss exp. Designed to alternate wins between players, but can be run so one person always wins and one always loses.
+Script to run with either two of your accounts or with another person. In essence, you use this to grind your daily win/loss exp. Designed to alternate wins between players, but can be run so one person always wins and one always loses.<br><br>
 
 
+**Note that this might not work with all screen resolutions. I know that 2560x1440 and 1920x1080 work, but not all dimensions will.**<br><br>
 
-# First time setup:<br><br>
+
+## First time setup:<br><br>
 
 
 **1. Install AutoHotKey**
@@ -33,7 +35,7 @@ Script to run with either two of your accounts or with another person. In essenc
 
 
 
-# Everytime:<br><br>
+## Everytime:<br><br>
 
 **1. Make sure that the script has the correct "surrenderFirst" number.**
  * If you are win-trading, make sure that the other account has a different number.<br><br>
