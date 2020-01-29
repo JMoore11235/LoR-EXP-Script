@@ -57,6 +57,7 @@ Script to run with either two of your accounts or with another person. In essenc
   * You should do something productive like reading a book, working out, or watching Netflix.<br><br>
   
 **7. Stop the script**
-  * By hitting "Control + q"
+  * By hitting "Control + q"<br>
+  * Note that stopping the script closes out of it completely, so go back to step 4 if you want to re-run it.
 
 
