@@ -6,7 +6,7 @@ Script to run with either two of your accounts or with another person. In essenc
 Steps to run:
 
 
-
+# First time setup:<br><br>
 
 
 **1. Install AutoHotKey**
@@ -32,14 +32,18 @@ Steps to run:
   This will always surrender. You can use this either to always surrender to another account, or the AI to farm only loss EXP.<br>
   If you are using this setting with another account, they should always be on -1.<br>
     * **-1:**
-  This will always receive surrenders. DO NOT use this setting unless you are also running this script on another account with this setting set to 2.<br><br>
+  This will always receive surrenders. DO NOT use this setting unless you are also running this script on another account with this setting set to 2.<br><br><br>
+
+
+
+# Everytime:<br><br>
+
   
-  
-**4. Start a Friendly Challenge, or Select "VS AI" in the Play menu:**
+**1. Start a Friendly Challenge, or Select "VS AI" in the Play menu**
  * Since you've made it this far, I'm assuming you're literate and can read English. Thus you should read the name of this step.<br><br>
  
-**5. Click on a deck (but not the Ready button)**
+**2. Click on a deck (but not the Ready button)**
  * The script needs you to start with the "Ready" button available, but still waiting.<br><br>
  
  
-**6. Initialize the Script by running it**
+**3. Initialize the Script by running it**
