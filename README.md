@@ -3,9 +3,6 @@ Script to run with either two of your accounts or with another person. In essenc
 
 
 
-Steps to run:
-
-
 # First time setup:<br><br>
 
 
@@ -38,12 +35,28 @@ Steps to run:
 
 # Everytime:<br><br>
 
+**1. Make sure that the script has the correct "surrenderFirst" number.
+ * If you are win-trading, make sure that the other account has a different number.
   
-**1. Start a Friendly Challenge, or Select "VS AI" in the Play menu**
+**2. Start a Friendly Challenge, or Select "VS AI" in the Play menu**
  * Since you've made it this far, I'm assuming you're literate and can read English. Thus you should read the name of this step.<br><br>
  
-**2. Click on a deck (but not the Ready button)**
+**3. Click on a deck (but not the Ready button)**
  * The script needs you to start with the "Ready" button available, but still waiting.<br><br>
  
+**4. Initialize the Script by running it**
+ * This is usually done by double-clicking, but if you want to get really fancy, you can click on it once and then hit the "Enter" button (or some other way).<br><br>
+
+**5. Start the Script (Simultaneously)**
+ * Press "Control + Shift + Left Click" to start the script. Hopefully it clicks on the "Ready" button. If it doesn't, check your setup to make sure everything is right. If it still doesn't work then try debugging/re-writing the script until it does. Please then send me an updated version so I can copy it and claim it as my own (jk I don't plagiarize).<br>
  
-**3. Initialize the Script by running it**
+ * If you're running this against the AI, obviously timing doesn't matter, but if you're running this against another account, try to start the scripts within a second or so of each other so that they don't get misaligned.<br><br>
+ 
+ 
+**6. Go do something else for a while**
+  * You should do something productive like reading a book, working out, or watching Netflix.<br><br>
+  
+**7. Stop the script**
+  * By hitting "Control + q"
+
+
