@@ -67,9 +67,7 @@ Script to run with either two of your accounts or with another person. In essenc
   
   
   ## Please consider donating!<br>
-  This script can save you hours of grinding a day, and the EXP rewards can add up to the equivalent of hundreds of LoR coins. If you would consider supporting me with even 1 or 2 dollars, it would help me a lot! Obviously, this is open-source, so there is no obligation to pay anything at all, but if you do feel inclined, you can do so here: paypal.me/JMoore11235
-  
-  
-  ##
+  This script can save you hours of grinding a day, and the EXP rewards can add up to the equivalent of hundreds of LoR coins. If you would consider supporting me with even 1 or 2 dollars, it would help me a lot! Obviously, this is open-source, so there is no obligation to pay anything at all, but if you do feel inclined, you can do so here: https://www.paypal.me/JMoore11235
+
 
 
