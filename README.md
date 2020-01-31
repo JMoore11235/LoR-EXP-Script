@@ -58,8 +58,18 @@ Script to run with either two of your accounts or with another person. In essenc
 **6. Go do something else for a while**
   * You should do something productive like reading a book, working out, or watching Netflix.<br><br>
   
-**7. Stop the script**
+**7. Stop the script once you are done**
   * By hitting "Control + q"<br>
-  * Note that stopping the script closes out of it completely, so go back to step 4 if you want to re-run it.
+  * Note that stopping the script closes out of it completely, so go back to step 4 if you want to re-run it.<br><br>
+
+**8. Share this with your friends!**
+  * Spreading this script will help more people avoid hours of grinding! The more time we can save, the better!<br><br><br>
+  
+  
+  ## Please consider donating!<br>
+  This script can save you hours of grinding a day, and the EXP rewards can add up to the equivalent of hundreds of LoR coins. If you would consider supporting me with even 1 or 2 dollars, it would help me a lot! Obviously, this is open-source, so there is no obligation to pay anything at all, but if you do feel inclined, you can do so here: paypal.me/JMoore11235
+  
+  
+  ##
 
 
