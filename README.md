@@ -15,7 +15,7 @@ Script to run with either two of your accounts or with another person. In essenc
 
 **2. Download "Lor Surrender Script vX_X.ahk"**
 
-  * Self-explanatory. Put this file somewhere where you'll remember it (or don't, I don't care).
+  * Self-explanatory. I'd recommend the most recent one, as it probably works the best. Put this file somewhere where you'll remember it (or don't, I don't care).
 <br><br>
 
 **3. Setup the script**
