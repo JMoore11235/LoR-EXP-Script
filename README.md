@@ -2,7 +2,7 @@
 Script to run with either two of your accounts or with another person. In essence, you use this to grind your daily win/loss exp. Designed to alternate wins between players, but can be run so one person always wins and one always loses.<br><br>
 
 
-**Note that this might not work with all screen resolutions. I know that 2560x1440 and 1920x1080 work, but not all dimensions will.**<br><br>
+**Note that this might not work with all screen resolutions. I know that 2560x1440 and 1920x1080 work, but not all dimensions will. Also this hasn't been updated in a very long time, and will not be updated in the future, so if it's broken I'm sorry.**<br><br>
 
 
 ## First time setup:<br><br>
